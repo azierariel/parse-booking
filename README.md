@@ -16,7 +16,7 @@ Python 3.8+
 
 **Clone the repo**
     
-    git clone https://github.com/azierariel/dtb-supercrawler
+    git clone https://github.com/azierariel/ufind-booking
 
 **Create & activate virtual environment**
 
