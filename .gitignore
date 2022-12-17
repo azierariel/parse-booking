@@ -1,0 +1,6 @@
+ufind.env
+Task
+*.pdf
+notes
+__pycache__/
+*.pyc
