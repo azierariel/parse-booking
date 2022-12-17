@@ -3,9 +3,9 @@
 - [Table of Contents](#table-of-contents)
   - [Requirements](#requirements)
   - [Setup](#setup)
-  - [Basic usage](#basic-usage)
-  - [Run tests](#run-tests)
-  - [Directory tree](#directory-tree)
+  - [Basic Usage](#basic-usage)
+  - [Tests Run](#run-tests)
+  - [Directory Tree](#directory-tree)
 
 ## Requirements
 
@@ -34,7 +34,7 @@ Python 3.8+
 
     pip install -r requirements.txt
 
-## Basic usage
+## Basic Usage
 
 To start the crawler simply navigate to `booking_root` folder (scrapy project root's folder), and start the spider.
 
@@ -44,7 +44,7 @@ The crawler will download the html files from the [input bucket](https://objects
 
 To list, add or download files from/into the buckets, one can use the given pre-authenticated urls and follow the simple instructions [here](https://docs.oracle.com/en-us/iaas/Content/Object/Tasks/usingpreauthenticatedrequests.htm) (See the section `Working with Pre-Authenticated Requests`).
 
-## Run tests
+## Tests Run
 
 Once you've followed the setup instructions above, you can run the entire test suite locally from `booking_root` folder:
 
@@ -52,7 +52,7 @@ Once you've followed the setup instructions above, you can run the entire test s
 
 
 
-## Directory tree
+## Directory Tree
 
     .
     ├── booking_root (scrapy project root's folder)
